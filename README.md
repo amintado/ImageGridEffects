@@ -12,6 +12,11 @@ Integrate or build upon it for free in your personal or commercial projects. Don
 
 Read more here: [License](http://tympanus.net/codrops/licensing/)
 
+## bower install
+````
+$ bower install image-grid-effects
+````
+
 ## Credits
 
 [Masonry](http://masonry.desandro.com/) by [David DeSandro](http://desandro.com/). Released under the [MIT license](http://desandro.mit-license.org).
