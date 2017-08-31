@@ -1,6 +1,6 @@
 {
-  "name": "Image-Grid-Effects",
-  "description": "Some inspiration for effects on image grids. The ideas include animations on the opening grid item, the disappearance of the grid and the resulting view.",
+  "name": "image-grid-effects",
+  "description": "Some inspiration for effects on image grids.",
   
   
   "devDependencies": {
